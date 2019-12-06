@@ -1,6 +1,5 @@
 .gradle/
-../.idea/
-.idea/
+../.idea
 target/
 out
 .DS_Store
