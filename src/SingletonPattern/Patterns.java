@@ -1,4 +1,4 @@
-import SingletonPattern.*;
+package SingletonPattern;
 
 import java.io.*;
 

@@ -8,7 +8,7 @@ Singleton Pattern
 * Also used in core java classes **java.lang.RunTime** and **java.awt.Desktop**
 
 
-###Different Implementation Patterns
+###Different Implementation SingletonPattern.Patterns
 
 1. _Eager Initialization_
 2. _Static Block Initialization_
